@@ -1,0 +1,22 @@
+{
+  "locations": [
+    {
+      "name": "Salsa Family Suceava",
+      "slug": "salsa-family-suceava",
+      "address": "Strada Dansului, Nr. 123",
+      "city": "Suceava"
+    },
+    {
+      "name": "Salsa Family Botoșani",
+      "slug": "salsa-family-botosani",
+      "address": "Strada Victoriei, Nr. 45",
+      "city": "Botoșani"
+    },
+    {
+      "name": "Salsa Family Rădăuți",
+      "slug": "salsa-family-radauti",
+      "address": "Strada Principală, Nr. 78",
+      "city": "Rădăuți"
+    }
+  ]
+}

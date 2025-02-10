@@ -1,0 +1,69 @@
+{
+  "kind": "collectionType",
+  "collectionName": "classes",
+  "info": {
+    "singularName": "class",
+    "pluralName": "classes",
+    "displayName": "Class",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "blocks"
+    },
+    "schedule": {
+      "type": "string"
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "level": {
+      "type": "enumeration",
+      "enum": [
+        "Beginner",
+        "Intermediate",
+        "Advanced"
+      ]
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "slug": {
+      "type": "string"
+    },
+    "location": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::location.location"
+    },
+    "typeOfDance": {
+      "type": "enumeration",
+      "enum": [
+        "Salsa & Bachata",
+        "Salsa",
+        "Bachata",
+        "Kizomba",
+        "Cha Cha",
+        "Merengue",
+        "Lady Style",
+        "Coregrafii Personalizate",
+        "Dansuri populare"
+      ]
+    }
+  }
+}

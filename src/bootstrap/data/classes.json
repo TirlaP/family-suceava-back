@@ -1,0 +1,85 @@
+{
+  "classes": [
+    {
+      "title": "Începători 1 (16.10.24)",
+      "slug": "incepatori-1-suceava",
+      "description": "Curs de baza pentru Salsa & Bachata. Program: Luni și Miercuri, 18:00 - 18:50.",
+      "schedule": "Luni și Miercuri, 18:00 - 18:50",
+      "price": 79.99,
+      "level": "Beginner",
+      "typeOfDance": "Salsa & Bachata"
+    },
+    {
+      "title": "Începători 2 (03.09.24)",
+      "slug": "incepatori-2-suceava",
+      "description": "Continuarea nivelului 1 pentru Salsa & Bachata. Program: Marți și Joi, 18:00 - 18:50.",
+      "schedule": "Marți și Joi, 18:00 - 18:50",
+      "price": 79.99,
+      "level": "Beginner",
+      "typeOfDance": "Salsa & Bachata"
+    },
+    {
+      "title": "Intermediari 4 (09.01.24)",
+      "slug": "intermediari-4-suceava",
+      "description": "Dezvoltă-ți abilitățile de Salsa & Bachata la nivel intermediar. Program: Luni și Miercuri, 19:00 - 19:50.",
+      "schedule": "Luni și Miercuri, 19:00 - 19:50",
+      "price": 89.99,
+      "level": "Intermediate",
+      "typeOfDance": "Salsa & Bachata"
+    },
+    {
+      "title": "Aprofundare B (18.09.23)",
+      "slug": "aprofundare-b-suceava",
+      "description": "Curs avansat de consolidare a tehnicii pentru Salsa & Bachata. Program: Luni, 20:00 - 20:50.",
+      "schedule": "Luni, 20:00 - 20:50",
+      "price": 99.99,
+      "level": "Advanced",
+      "typeOfDance": "Salsa & Bachata"
+    },
+    {
+      "title": "Dansuri Populare",
+      "slug": "dansuri-populare",
+      "description": "Curs dedicat dansurilor populare românești. Program: Luni, 21:00 - 21:50.",
+      "schedule": "Luni, 21:00 - 21:50",
+      "price": 70.00,
+      "level": "Beginner",
+      "typeOfDance": "Dansuri populare"
+    },
+    {
+      "title": "Începători 4 (15.03.24) - Rădăuți",
+      "slug": "incepatori-4-radauti",
+      "description": "Curs pentru începători la Rădăuți, Salsa & Bachata. Program: Vineri, 18:00 - 19:00.",
+      "schedule": "Vineri, 18:00 - 19:00 (Rădăuți)",
+      "price": 79.99,
+      "level": "Beginner",
+      "typeOfDance": "Salsa & Bachata"
+    },
+    {
+      "title": "Intermediari 6 (Botoșani)",
+      "slug": "intermediari-6-botosani",
+      "description": "Nivel intermediar pentru Salsa & Bachata. Program: Sâmbătă, 13:00 - 14:00.",
+      "schedule": "Sâmbătă, 13:00 - 14:00 (Botoșani)",
+      "price": 89.99,
+      "level": "Intermediate",
+      "typeOfDance": "Salsa & Bachata"
+    },
+    {
+      "title": "Kizomba 3 (Botoșani)",
+      "slug": "kizomba-3-botosani",
+      "description": "Curs dedicat stilului Kizomba pentru dansatori de nivel intermediar. Program: Sâmbătă, 14:00 - 15:00.",
+      "schedule": "Sâmbătă, 14:00 - 15:00 (Botoșani)",
+      "price": 89.99,
+      "level": "Intermediate",
+      "typeOfDance": "Kizomba"
+    },
+    {
+      "title": "Începători 1 (Botoșani)",
+      "slug": "incepatori-1-botosani",
+      "description": "Curs pentru începători Salsa & Bachata la Botoșani. Program: Sâmbătă, 15:00 - 16:00.",
+      "schedule": "Sâmbătă, 15:00 - 16:00 (Botoșani)",
+      "price": 79.99,
+      "level": "Beginner",
+      "typeOfDance": "Salsa & Bachata"
+    }
+  ]
+}

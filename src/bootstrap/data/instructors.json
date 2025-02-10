@@ -1,0 +1,18 @@
+{
+  "instructors": [
+    {
+      "name": "Andrei Romega",
+      "slug": "andrei-romega",
+      "bio": "Expert în Salsa și Bachata, Andrei inspiră dansatorii cu energia sa vibrantă.",
+      "specialties": ["Salsa", "Bachata"],
+      "image": null
+    },
+    {
+      "name": "Lucia Nicoleta Romega",
+      "slug": "lucia-nicoleta-romega",
+      "bio": "Lucia aduce creativitate și pasiune în fiecare lecție de dans.",
+      "specialties": ["Salsa", "Creativitate"],
+      "image": null
+    }
+  ]
+}

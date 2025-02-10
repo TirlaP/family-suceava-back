@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "testimonials",
+  "info": {
+    "singularName": "testimonial",
+    "pluralName": "testimonials",
+    "displayName": "Testimonial"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "comment": {
+      "type": "text"
+    },
+    "rating": {
+      "type": "decimal",
+      "max": 5,
+      "min": 1
+    }
+  }
+}

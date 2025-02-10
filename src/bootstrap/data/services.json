@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "title": "Coregrafii personalizate pentru nunți",
+      "description": "Fiecare dans este creat special pentru a reflecta povestea voastră.",
+      "icon": "heart",
+      "link": "/services/wedding-choreography"
+    },
+    {
+      "title": "Evenimente sociale pentru a vă conecta",
+      "description": "Participați la petrecerile noastre săptămânale și îmbunătățiți-vă abilitățile de dans.",
+      "icon": "users",
+      "link": "/events"
+    },
+    {
+      "title": "Îmbinați distracția cu învățarea prin dans",
+      "description": "Fiecare clasă este o oportunitate de a vă dezvolta și a vă distra.",
+      "icon": "music",
+      "link": "/classes"
+    }
+  ]
+}

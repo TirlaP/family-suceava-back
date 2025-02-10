@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "title": "Social Dance Party",
+      "slug": "social-dance-party",
+      "description": "Vino să dansezi și să te distrezi într-o atmosferă prietenoasă și energică. Toate nivelurile sunt binevenite!",
+      "date": "2024-03-15T19:00:00.000Z",
+      "location": "Salsa Family Studio, Suceava"
+    },
+    {
+      "title": "Workshop Bachata Sensual",
+      "slug": "workshop-bachata-sensual",
+      "description": "Workshop intensiv de Bachata Sensual cu instructori internaționali. Perfect pentru dansatorii de nivel intermediar și avansat.",
+      "date": "2024-03-20T14:00:00.000Z",
+      "location": "Salsa Family Studio, Suceava"
+    },
+    {
+      "title": "Ladies Styling Workshop",
+      "slug": "ladies-styling-workshop",
+      "description": "Workshop special pentru doamne, concentrat pe tehnici de styling și expresivitate în dans.",
+      "date": "2024-03-25T18:00:00.000Z",
+      "location": "Salsa Family Studio, Suceava"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "testimonials": [
+    {
+      "name": "Sarah Johnson",
+      "comment": "The best dance school I've ever attended! The instructors are patient and skilled, and the atmosphere is so welcoming.",
+      "rating": 5
+    },
+    {
+      "name": "David Lee",
+      "comment": "Started as a complete beginner and now I'm confidently dancing at social events. Highly recommend their beginner classes!",
+      "rating": 4.5
+    },
+    {
+      "name": "Lisa Thompson",
+      "comment": "The advanced salsa classes really helped me refine my technique. The instructors pay great attention to detail.",
+      "rating": 5
+    },
+    {
+      "name": "James Wilson",
+      "comment": "Great community and excellent instruction. I've made so many friends here while learning to dance.",
+      "rating": 4.8
+    },
+    {
+      "name": "Emily Chen",
+      "comment": "The bachata classes are amazing! The instructors break down complex moves in a way that's easy to understand.",
+      "rating": 4.7
+    }
+  ]
+}
