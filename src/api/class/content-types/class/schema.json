@@ -64,6 +64,24 @@
         "Coregrafii Personalizate",
         "Dansuri populare"
       ]
+    },
+    "registrationEnabled": {
+      "type": "boolean"
+    },
+    "availableSpots": {
+      "type": "integer"
+    },
+    "waitlistEnabled": {
+      "type": "boolean"
+    },
+    "startDate": {
+      "type": "datetime"
+    },
+    "course_registrations": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::course-registration.course-registration",
+      "mappedBy": "courseType"
     }
   }
 }

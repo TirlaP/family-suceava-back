@@ -39,6 +39,12 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::class.class"
+    },
+    "course_registrations": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::course-registration.course-registration",
+      "mappedBy": "location"
     }
   }
 }

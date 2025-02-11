@@ -1,0 +1,73 @@
+{
+  "kind": "collectionType",
+  "collectionName": "course_registrations",
+  "info": {
+    "singularName": "course-registration",
+    "pluralName": "course-registrations",
+    "displayName": "CourseRegistration",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "firstName": {
+      "type": "string"
+    },
+    "age": {
+      "type": "integer"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "courseType": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::class.class",
+      "inversedBy": "course_registrations"
+    },
+    "howDidYouFindUs": {
+      "type": "enumeration",
+      "enum": [
+        "Facebook",
+        "Instagram",
+        "Google",
+        "Iulius Mall",
+        "Prieteni",
+        "Petrecere"
+      ]
+    },
+    "statusRegistration": {
+      "type": "enumeration",
+      "enum": [
+        "pending",
+        "confirmed",
+        "waitlist"
+      ]
+    },
+    "gdprConsent": {
+      "type": "boolean"
+    },
+    "location": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::location.location",
+      "inversedBy": "course_registrations"
+    },
+    "city": {
+      "type": "enumeration",
+      "enum": [
+        "Suceava",
+        "Botoșani",
+        "Rădăuți"
+      ]
+    }
+  }
+}
